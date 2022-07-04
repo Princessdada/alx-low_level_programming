@@ -1,5 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio>
+
 /**
 * main - Entry point
 *   
@@ -21,4 +23,3 @@ printf("%d is negative\n", n);
 
 return (0);
 }
-
