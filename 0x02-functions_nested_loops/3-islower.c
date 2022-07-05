@@ -4,7 +4,7 @@
 * @c: single letter input
 * Return: ways 0 (Success)
 */
-int_islower(int c)
+int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
 return (1);
