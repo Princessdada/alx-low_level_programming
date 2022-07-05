@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_alphabet_x10 - a function that prints 10 times the alphabet 
+* print_alphabet_x10 - a function that prints 10 times the alphabet
 *
 * Return: Always 0 (Success)
 */
@@ -11,7 +11,7 @@ int b, mn;
 mn = 0;
 
 while (mn < 10)
-{ 
+{
 for (b = 'a'; b <= 'z'; b++)
 {
 _putchar(b);
