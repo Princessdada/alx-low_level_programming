@@ -17,6 +17,7 @@ if (n > 0)
 for (sp = 0; sp < n; sp++)
 {
 for (bl = 0; bl < sp; bl++)
+{
 for (sl = 0; sl < sp; sl++)
 {
 
