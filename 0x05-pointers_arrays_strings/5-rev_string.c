@@ -13,6 +13,8 @@ char v1, v2;
 
 for (length = 0; s[length] != '\0'; length++)
 {
+}
+
 j = length - 1;
 i = 0;
 
